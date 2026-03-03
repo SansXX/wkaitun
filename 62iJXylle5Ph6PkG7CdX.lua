@@ -40,7 +40,7 @@ return {
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {"Ghost Shark", "Cryoshade Glider", "Panther Eel", "Queen Crab", "King Crab", "Giant Squid", "Blob Shark", "Ghost Shark"},
         ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
-        ["Minimum Rod"] = "Astral Rod",
+        ["Minimum Rod"] = "Midnight Rod",
     },
     ["WebHook"] = {
         ["Link Webhook"] = "https://discord.com/api/webhooks/1452659546269945919/vxfmdMu7Xy9Pa7dieymEXL35zbiciXB7V9dNytalZFQ_52LbmlHIQHeM2CDLAN2ielmC",
