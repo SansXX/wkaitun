@@ -1,7 +1,7 @@
 return {
     ["Fishing"] = {
-        ["Auto Perfect"] = true,
-        ["Random Result"] = false,
+        ["Auto Perfect"] = false,
+        ["Random Result"] = true,
         ["Auto Favorite"] = true,
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
@@ -110,7 +110,7 @@ return {
     ["UltimatePerformance"] = true,
     ["Disable3DRender"] = true,
     ["AutoRemovePlayer"] = true,
-    ["AutoReconnect"] = false,
+    ["AutoReconnect"] = true,
     ["HideGUI"] = false,
-    ["EXIT_MAP_IF_DISCONNECT"] = true,
+    ["EXIT_MAP_IF_DISCONNECT"] = false,
 }
