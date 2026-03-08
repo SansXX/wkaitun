@@ -75,7 +75,7 @@ return {
         ["Auto Enchant"] = true,
         ["Roll Enchant"] = false,
         ["Evolved Roll Enchant"] = false,
-        ["Enchant List"] = {"SECRET Hunter"},
+        ["Enchant List"] = {"Cursed I", "SECRET Hunter"},
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {"Cryoshade Glider", "Ghost Shark", "Blob Shark", "Giant Squid", "King Crab", "Queen Crab"},
         ["Second Enchant List"] = {"Cursed I"},
