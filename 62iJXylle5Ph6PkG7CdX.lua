@@ -79,7 +79,7 @@ return {
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {"Cryoshade Glider", "Ghost Shark", "Blob Shark", "Giant Squid", "King Crab", "Queen Crab"},
         ["Second Enchant List"] = {"Cursed I"},
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Minimum Rod"] = "Astral Rod",
     },
     ["Bait List"] = {
         ["Auto Buying"] = true,
