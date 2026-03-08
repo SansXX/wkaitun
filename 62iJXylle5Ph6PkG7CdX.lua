@@ -59,9 +59,9 @@ return {
     },
     ["Totems"] = {
         ["Auto Use"] = true,
-        ["Minimum Rod"] = "Ghostfinn Rod",
+        ["Minimum Rod"] = "Astral Rod",
         ["Buy List"] = {
-            ["Mutation Totem"] = 10
+            ["Mutation Totem"] = 5
         },
     },
     ["Event"] = {
