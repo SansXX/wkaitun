@@ -1,7 +1,7 @@
 return {
     ["Fishing"] = {
-        ["Auto Perfect"] = false,
-        ["Random Result"] = true,
+        ["Auto Perfect"] = true,
+        ["Random Result"] = false,
         ["Auto Favorite"] = true,
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
