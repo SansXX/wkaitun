@@ -69,7 +69,6 @@ return {
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
             ["Ancient Lochness Monster"] = true,
-            "Megalodon Hunt"
         },
     },
     ["Enchant"] = {
