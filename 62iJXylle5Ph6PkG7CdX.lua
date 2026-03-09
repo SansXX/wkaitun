@@ -76,7 +76,7 @@ return {
     },
     ["Enchant"] = {
         ["Auto Enchant"] = true,
-        ["Roll Enchant"] = false,
+        ["Roll Enchant"] = true,
         ["Evolved Roll Enchant"] = false,
         ["Enchant List"] = {"Cursed I", "SECRET Hunter"},
         ["Second Enchant"] = true,
