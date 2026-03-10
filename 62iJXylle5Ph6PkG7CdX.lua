@@ -47,7 +47,7 @@ return {
     ["WebHook"] = {
         ["Link Webhook"] = "https://discord.com/api/webhooks/1452659546269945919/vxfmdMu7Xy9Pa7dieymEXL35zbiciXB7V9dNytalZFQ_52LbmlHIQHeM2CDLAN2ielmC",
         ["Auto Sending"] = true,
-        ["Category"] = {"Secret"},
+        ["Category"] = {"Secret"}, {Name = "Ruby", Variant = "Gemstone"},
         ["Link Webhook Quest Complete"] = "https://discord.com/api/webhooks/1469652278658207898/xH-N5v4es6QAM-pKCx4GZnzuCv7r21kesgNphXf05IhsdIf6UlhEcBrXrHgGdtbkjKh8",
     },
     ["Weather"] = {
