@@ -1,4 +1,5 @@
 -- TONG GANTI GANTI DEI RANDOM RESAULT
+-- Treasure Room / Tropical Grove
 
 return {
     ["Fishing"] = {
@@ -109,7 +110,7 @@ return {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod", "Midnight Rod"},
             ["Sisyphus Statue"] = {"Angler Rod", "Ares Rod", "Astral Rod"},
-            ["Tropical Grove"] = {"Element Rod", "Ghostfinn Rod"},
+            ["Treasure Room"] = {"Element Rod", "Ghostfinn Rod"},
         },
         ["Endgame"] = "Diamond Rod",
     },
