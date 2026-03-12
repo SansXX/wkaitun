@@ -39,7 +39,7 @@ return {
         ["Auto Element Rod"] = false,
         ["Auto Element Rod 2"] = false,
         ["Auto Diamond Rod"] = false,
-        ["Unlock Ancient Ruin"] = true,
+        ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {"Ghost Shark", "Cryoshade Glider", "Panther Eel", "Queen Crab", "King Crab", "Giant Squid", "Blob Shark", "Ghost Shark"},
         ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
         ["Minimum Rod"] = "Midnight Rod",
@@ -67,7 +67,7 @@ return {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = true,
+        ["Start Farm"] = false,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
             ["Ancient Lochness Monster"] = true,
