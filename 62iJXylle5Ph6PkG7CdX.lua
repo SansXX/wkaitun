@@ -74,10 +74,9 @@ return {
         },
     },
     ["Event"] = {
-        ["Start Farm"] = false,
+        ["Start Farm"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
-            ["Ancient Lochness Monster"] = true,
             "Megalodon Hunt"
         },
     },
