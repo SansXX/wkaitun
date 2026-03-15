@@ -110,7 +110,7 @@ return {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod", "Midnight Rod"},
             ["Sisyphus Statue"] = {"Angler Rod", "Ares Rod", "Astral Rod"},
-            ["Tropical Grove"] = {"Ghostfinn Rod"},
+            ["Treasure Room"] = {"Ghostfinn Rod"},
             ["Treasure Room"] = {"Element Rod"},
         },
         ["Endgame"] = "Diamond Rod",
