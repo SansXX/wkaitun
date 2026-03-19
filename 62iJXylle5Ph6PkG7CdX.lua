@@ -1,10 +1,10 @@
--- TONG GANTI GANTI DEI RANDOM RESAULT
+-- TONG GANTI GANTI DEI MODE FISHING
 -- Treasure Room / Tropical Grove
 
 return {
     ["Fishing"] = {
-        ["Auto Perfect"] = false,
-        ["Random Result"] = true,
+        ["Auto Perfect"] = true,
+        ["Random Result"] = false,
         ["Auto Favorite"] = true,
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
