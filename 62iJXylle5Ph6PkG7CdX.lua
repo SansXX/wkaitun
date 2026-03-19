@@ -77,7 +77,7 @@ return {
         ["Start Farm"] = true,
         ["Minimum Rod"] = "Ghostfinn Rod",
         ["Event List"] = {
-            "Megalodon Hunt"
+            "Shark Hunt"
         },
     },
     ["Enchant"] = {
