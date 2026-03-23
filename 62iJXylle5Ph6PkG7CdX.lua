@@ -3,8 +3,8 @@
 
 return {
     ["Fishing"] = {
-        ["Auto Perfect"] = true,
-        ["Random Result"] = false,
+        ["Auto Perfect"] = false,
+        ["Random Result"] = true,
         ["Auto Favorite"] = true,
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
@@ -38,8 +38,8 @@ return {
     ["Doing Quest"] = {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
-        ["Auto Element Rod 2"] = false,
-        ["Auto Diamond Rod"] = false,
+        ["Auto Element Rod 2"] = true,
+        ["Auto Diamond Rod"] = true,
         ["Unlock Ancient Ruin"] = false,
         ["Allowed Sacrifice"] = {"Ghost Shark", "Cryoshade Glider", "Panther Eel", "Queen Crab", "King Crab", "Giant Squid", "Blob Shark", "Ghost Shark"},
         ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
@@ -70,7 +70,8 @@ return {
         ["Auto Use"] = true,
         ["Minimum Rod"] = "Astral Rod",
         ["Buy List"] = {
-            ["Mutation Totem"] = 10
+            ["Mutation Totem"] = 10,
+            ["Luck Totem"] = 10
         },
     },
     ["Event"] = {
@@ -82,8 +83,8 @@ return {
     },
     ["Enchant"] = {
         ["Auto Enchant"] = true,
-        ["Roll Enchant"] = true,
-        ["Evolved Roll Enchant"] = false,
+        ["Roll Enchant"] = false,
+        ["Evolved Roll Enchant"] = true,
         ["Enchant List"] = {"Cursed I", "SECRET Hunter"},
         ["Second Enchant"] = true,
         ["Allowed Sacrifice"] = {"Cryoshade Glider", "Ghost Shark", "Blob Shark", "Giant Squid", "King Crab", "Queen Crab"},
@@ -109,7 +110,7 @@ return {
             ["Fisherman Island"] = {"Starter Rod"},
             ["Kohana Volcano"] = {"Grass Rod", "Midnight Rod"},
             ["Sisyphus Statue"] = {"Angler Rod", "Ares Rod", "Astral Rod"},
-            ["Treasure Room"] = {"Ghostfinn Rod", "Element Rod"},
+            ["Treasure Room"] = {"Ghostfinn Rod", "Element Rod", "Diamond Rod"},
         },
         ["Endgame"] = "Diamond Rod",
     },
@@ -118,7 +119,7 @@ return {
     ["UltimatePerformance"] = true,
     ["Disable3DRender"] = true,
     ["AutoRemovePlayer"] = true,
-    ["AutoReconnect"] = false,
+    ["AutoReconnect"] = true,
     ["HideGUI"] = false,
-    ["EXIT_MAP_IF_DISCONNECT"] = true,
+    ["EXIT_MAP_IF_DISCONNECT"] = false,
 }
