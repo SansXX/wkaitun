@@ -70,8 +70,7 @@ return {
         ["Auto Use"] = true,
         ["Minimum Rod"] = "Astral Rod",
         ["Buy List"] = {
-            ["Mutation Totem"] = 10,
-            ["Luck Totem"] = 10
+            ["Mutation Totem"] = 10
         },
     },
     ["Event"] = {
