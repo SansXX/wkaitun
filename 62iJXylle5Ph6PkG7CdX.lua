@@ -3,8 +3,8 @@
 
 return {
     ["Fishing"] = {
-        ["Auto Perfect"] = false,
-        ["Random Result"] = true,
+        ["Auto Perfect"] = true,
+        ["Random Result"] = false,
         ["Auto Favorite"] = true,
         ["Auto Unfavorite"] = false,
         ["Fish Name"] = {
@@ -39,7 +39,7 @@ return {
         ["Auto Ghostfinn Rod"] = true,
         ["Auto Element Rod"] = false,
         ["Auto Element Rod 2"] = true,
-        ["Auto Diamond Rod"] = true,
+        ["Auto Diamond Rod"] = false,
         ["Unlock Ancient Ruin"] = true,
         ["Allowed Sacrifice"] = {"Ghost Shark", "Cryoshade Glider", "Panther Eel", "Queen Crab", "King Crab", "Giant Squid", "Blob Shark", "Ghost Shark"},
         ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
