@@ -16,7 +16,7 @@ return {
     },
     ["Auto Trade"] = {
         ["Enabled"] = true,
-        ["Whitelist Username"] = {"Alveldt", "Buanstila", "Savbosssto", "Gumiosat", "Zypherish"},
+        ["Whitelist Username"] = {"Zypherish"},
         ["Category Fish"] = {
             "Secret"
         },
