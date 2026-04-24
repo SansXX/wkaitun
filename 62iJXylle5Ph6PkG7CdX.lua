@@ -41,7 +41,7 @@ return {
         ["Auto Element Rod 2"] = true,
         ["Auto Diamond Rod"] = false,
         ["Unlock Ancient Ruin"] = true,
-        ["Allowed Sacrifice"] = {"Ghost Shark", "Cryoshade Glider", "Panther Eel", "Queen Crab", "King Crab", "Giant Squid", "Blob Shark", "Ghost Shark"},
+        ["Allowed Sacrifice"] = {"Ghost Shark", "Cryoshade Glider", "Panther Eel", "Queen Crab", "King Crab", "Giant Squid", "Blob Shark", "Ghost Shark", "Bone Whale", "Mosasaur Shark", "Elshark Gran Maja", "Robot Kraken", "Depthseeker Ray", "King Jelly"},
         ["FARM_LOC_SECRET_SACRIFICE"] = "Ocean",
         ["Minimum Rod"] = "Midnight Rod",
     },
